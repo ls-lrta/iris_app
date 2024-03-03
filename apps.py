@@ -1,3 +1,5 @@
+pip install scikit-learn
+
 from sklearn.datasets import load_iris
 import pandas as pd
 import streamlit as st 
